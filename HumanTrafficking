@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HUMAN TRAFFICKING AWARENESS STEM PROJECT USC </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
+body {font-family: "Open Sans"}
+</style>
+</head>
+<body class="w3-light-grey">
+
+<!-- w3-content defines a container for fixed size centered content, 
+and is wrapped around the whole page content, except for the footer in this example -->
+<div class="w3-content" style="max-width:1600px">
+
+  <!-- Header -->
+  <header class="w3-container w3-center w3-padding-48 w3-white">
+    <h1 class="w3-xxxlarge"><b>HUMAN TRAFFICKING AWARENESS</b></h1>
+    <h6>Welcome to our Website <span class="w3-tag"></span></h6>
+  </header>
+
+  <!-- Image header -->
+  <header class="w3-display-container w3-wide" id="home">
+    <img class="w3-image" src="https://st3.depositphotos.com/16806196/31856/i/600/depositphotos_318566598-stock-photo-hopeless-man-hands-tied-together.jpg" alt="Fashion Blog" width="1600" height="1060">
+    <div class="w3-display-left w3-padding-large">
+      <h1 class="w3-text-white">Awareness</h1>
+      <h1 class="w3-jumbo w3-text-white w3-hide-small"><b>HUMAN TRAFFICKING </b></h1>
+    </div>
+  </header>
+
+  <!-- Grid -->
+  <div class="w3-row w3-padding w3-border">
+
+    <!-- Blog entries -->
+    <div class="w3-col l8 s12">
+          <!-- Blog entry -->
+          <div class="w3-container w3-white w3-margin w3-padding-large">
+            <div class="w3-center">
+              <h3>Our Website Objective</h3>
+              <h5>A Design Thinking Process Solution <span class="w3-opacity"></span></h5>
+            </div>
+    
+            <div class="w3-justify">
+              <img src="https://galelawgroup.com/wp-content/uploads/2022/04/humansextrafficking.jpg" alt="Girl Hat" style="width:100%" class="w3-grayscale">
+              <p><p style="text-align:center">Our website serves as a powerful platform, harnessing the capabilities of coding and technology to foster global awareness and disseminate information worldwide, effectively facilitating our process thinking solution.</p>
+              <p></p>
+                <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+                <hr>
+              </div>
+            </div>
+          </div>
+          <hr>
+    
+      <!-- Blog entry -->
+      <div class="w3-container w3-white w3-margin w3-padding-large">
+        <div class="w3-center">
+          <h3>About our Website</h3>
+          <h5>What is Human Trafficking? <span class="w3-opacity"></span></h5>
+        </div>
+
+        <div class="w3-justify">
+          <img src="https://s.hdnux.com/photos/01/23/43/10/21901864/4/rawImage.jpg" alt="Girl Hat" style="width:100%" class="w3-grayscale">
+          <p><p style="text-align:center"> Human trafficking is the illegal trade of people through force or deception for exploitation. It takes various forms such as sex trafficking, forced labor, child trafficking, and organ trafficking. This issue is significant because it violates human rights, generates enormous profits for criminals, preys on vulnerable populations, fuels organized crime, and poses a threat to global security. Immediate attention is crucial to protect victims, dismantle trafficking networks, and promote justice and dignity for all..</p>
+          <p></p>
+          <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+          <p class="w3-clear"></p>
+          <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+            <hr>
+              <div class="w3-col l2 m3">
+                <img src="https://t3.ftcdn.net/jpg/02/16/81/40/360_F_216814074_Cubdtuf7JF3Z7AxHIbTzjNxRUndU2QN5.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>Anonymous<span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+                <p><p style="text-align:center"></p>Oh, for sure! I totally know about human trafficking. It's this messed-up thing where people are illegally traded and forced into things like forced labor or sexual exploitation.</p>
+              </div>
+          </div>
+        </div>
+      </div>
+      <hr>
+
+      <!-- Blog entry -->
+      <div class="w3-container w3-white w3-margin w3-padding-large">
+        <div class="w3-center">
+          <h3>IMPACT AND CONSEQUENCES</h3>
+          <h5>What Human Traficcking Victims Endure<span class="w3-opacity"></span></h5>
+        </div>
+
+        <div class="w3-justify">
+          <img src="https://rnkr.tmsimg.com/assets/p180623_v_s2_aa.jpg" alt="Men in Hats" style="width:100%" class="w3-grayscale">
+          <p><p style="text-align:center">Victims of human trafficking endure severe physical, emotional, and psychological consequences. They suffer physical harm, sexual abuse, malnutrition, and exposure to hazardous conditions. Trafficked individuals also experience emotional trauma, depression, anxiety, and post-traumatic stress disorder (PTSD). The broader impact on society includes connections to other criminal activities like drug trafficking, arms smuggling, money laundering, and organized crime. Addressing human trafficking is essential to protect victims, prevent further exploitation, and combat interconnected criminal networks.</p>
+          <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+          <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo2')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
+          <p class="w3-clear"></p>
+          
+          <!-- Example of comment field -->
+          <div id="demo2" style="display:none">
+            <div class="w3-row">
+              <hr>
+              <div class="w3-col l2 m3">
+                <img src="https://t3.ftcdn.net/jpg/02/16/81/40/360_F_216814074_Cubdtuf7JF3Z7AxHIbTzjNxRUndU2QN5.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>Amber <span class="w3-opacity w3-medium">April 26, 2015, 10:52 PM</span></h4>
+                <p<p style="text-align:left">Man, it's so disturbing to think that human trafficking is happening in this day and age. We need to raise more awareness and put an end to this horrible crime.</p><br>
+              </div>
+            </div>
+            <div class="w3-row w3-margin-bottom">
+              <div class="w3-col l2 m3">
+                <img src="https://t3.ftcdn.net/jpg/02/16/81/40/360_F_216814074_Cubdtuf7JF3Z7AxHIbTzjNxRUndU2QN5.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>Angie <span class="w3-opacity w3-medium">April 23, 2015, 9:12 PM</span></h4>
+                <p><p style="text-align:left"> I can't even imagine the horrors that victims of human trafficking go through. It's heartbreaking. We should support organizations that rescue and rehabilitate survivors.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Blog entry -->
+      <div class="w3-container w3-white w3-margin w3-padding-large">
+        <div class="w3-center">
+          <h3>EDUCATIONAL RESOURCES</h3>
+          <h5>Comprehensive Information! <span class="w3-opacity"></span></h5>
+        </div>
+
+        <div class="w3-justify">
+          <img src="https://customsitesmedia.usc.edu/wp-content/uploads/sites/59/2015/05/16140657/darpa_WEB.jpeg.jpg" alt="Runway" style="width:100%" class="">
+          <p><strong></strong>Information Beneficial to Know!
+            <p><p style="text-align:center">Human trafficking is a global problem that involves the exploitation of individuals through force, fraud, or coercion for various purposes. Here is a brief overview of different types of human trafficking: Sex Trafficking:
+            Sex trafficking involves the recruitment, harboring, transportation, provision, or obtaining of a person for the purpose of a commercial sex act, where force, fraud, or coercion is used. It predominantly affects women and children. Some key facts include: Approximately 99% of victims trafficked for sexual exploitation are women and girls. (UNODC) It is estimated that there are 4.8 million victims of forced sexual exploitation worldwide. (ILO) Case Study: In 2018, Operation Independence in the United States resulted in the rescue of 84 minors and the arrest of 120 traffickers involved in sex trafficking.</p>
+          <p class="w3-left"><button class="w3-button w3-white w3-border" onclick="likeFunction(this)"><b><i class="fa fa-thumbs-up"></i> Like</b></button></p>
+          <p class="w3-right"><button class="w3-button w3-black" onclick="myFunction('demo3')"><b>Replies  </b> <span class="w3-tag w3-white">2</span></button></p>
+          <p class="w3-clear"></p>
+          
+          <!-- Example of comment field -->
+          <div id="demo3" style="display:none">
+            <hr>
+            <div class="w3-row w3-margin-bottom">
+              <div class="w3-col l2 m3">
+                <img src="https://t3.ftcdn.net/jpg/02/16/81/40/360_F_216814074_Cubdtuf7JF3Z7AxHIbTzjNxRUndU2QN5.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>Jane<span class="w3-opacity w3-medium"> April 10, 2015, 7:22 PM</span></h4>
+                <p>Any more information?</p>
+              </div>
+            </div>
+            <div class="w3-row w3-margin-bottom">
+              <div class="w3-col l2 m3">
+                <img src="https://t3.ftcdn.net/jpg/02/16/81/40/360_F_216814074_Cubdtuf7JF3Z7AxHIbTzjNxRUndU2QN5.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>John <span class="w3-opacity w3-medium">April 8, 2015, 10:32 PM</span></h4>
+                <p><p style="text-align:left"></p>I heard about a project going at ISI, using AI to go after human traffickers, definitely a project to know about!
+                    Here's the link: </p>
+                    https://news.usc.edu/81360/internet-search-tool-takes-on-human-traffickers/
+                </p>
+              </div>
+             </div>
+          </div>
+        </div>
+      </div>
+      
+    <!-- END BLOG ENTRIES -->
+    </div>
+
+    <!-- About/Information menu -->
+    <div class="w3-col l4">
+      <!-- About Card -->
+      <div class="w3-white w3-margin">
+        <img src="https://www.ice.gov/assets/features/human-smuggling-trafficking/htVictimSharesStoryStatic2.jpg" alt="Jane" style="width:100%" class="w3-grayscale">
+        <div class="w3-container w3-black">
+          <h4>Tonya's Story</h4>
+          <p><p style="text-align:center"></p>"It was just supposed to be something to make money, but it quickly turned into much more than she ever imagined. In part one, Tonya (a pseudonym) reveals how she initially became a victim of human trafficking."</p>
+          <a target="_blank" class="fcc-btn" href="https://www.ice.gov/features/human-trafficking-victim-shares-story">Link to Tonya's Story</a>
+        <p></p>
+        </div>
+      </div>
+      <hr>
+
+      <!-- Posts -->
+      <div class="w3-white w3-margin">
+        <div class="w3-container w3-padding w3-black">
+          <h4>Resources</h4>
+        </div>
+        <ul class="w3-ul w3-hoverable w3-white">
+          <li class="w3-padding-16">
+            <img src="https://gray-kktv-prod.cdn.arcpublishing.com/resizer/cJI1_ZRtJlAnwBOU4xBrtGz5CG0=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FEHZEPU5YBHNFNSZKKARFDZR2Q.jpg" alt="Image" class="w3-left w3-margin-right" style="width:140px">
+            <span class="w3-medium"> Human-Trafficking Hotline</span>
+            <br>
+            <span></span>
+            <p></p>
+            <a target="_blank" class="fcc-btn" href="https://humantraffickinghotline.org/en">Direct Hotline</a>
+          </li>
+          <li class="w3-padding-16">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmomgDcEVR_-Kkv5Bn9gilptiF1FW3ouNPsg&usqp=CAU" alt="Image" class="w3-left w3-margin-right" style="width: 150px">
+            <span class="w3-large">Warning Signs</span>
+            <br>
+            <p></p>
+            <a target="_blank" class="fcc-btn" href="https://humantraffickinghotline.org/en/human-trafficking/recognizing-signs">Recognize</a>
+          </li>
+          <li class="w3-padding-16">
+            <img src="https://images.squarespace-cdn.com/content/v1/58ae0de9e4fcb59390c04b18/1572294031299-9ISXIBUB6ZXZNH5PCC4W/PHTlogocolorblack.PNG?format=2500w" alt="Image" class="w3-left w3-margin-right w3-sepia" style="width:150px">
+            <span class="w3-large">Want to Help?</span>
+            <br>
+            <span></span>
+            <p></p>
+            <a target="_blank" class="fcc-btn" href="https://www.childwelfare.gov/organizations/?CWIGFunctionsaction=rols:main.dspList&rolType=Custom&RS_ID=57">Organizations</a>
+          </li>
+        </ul>
+      </div>
+      <hr>
+
+      <!-- Advertising -->
+      <div class="w3-white w3-margin">
+        <div class="w3-container w3-padding w3-black">
+          <h4>What's Nomi Network</h4>
+          <img src="https://donorbox.org/nonprofit-blog/wp-content/uploads/2022/03/word-image-32.png" alt="Jane" style="width:100%" class="w3-grayscale">
+        </div>
+        <div class="w3-container w3-white">
+          <div class="w3-container w3-display-container w3-light-grey w3-section" style="height: 170px">
+            <span class="w3-display-center"> <p style="text-align:center"></p> Mission: “To end human trafficking by creating pathways to safe employment, empowering women and girls to break cycles of slavery in their families and communities.”</span>
+            <p></p>
+            <a target="_blank" class="fcc-btn" href="https://nominetwork.org/"> Nomi Network</a>
+        </div>
+        </div>
+      </div>
+      <hr>
+
+      <!-- Inspiration -->
+
+      <div class="w3-white w3-margin">
+        <div class="w3-container w3-padding w3-black">
+          <h4>Survey Taken by College Students - 
+            Human Trafficking </h4>
+        </div>
+            <div class="w3-container w3-black">
+                <p><p style="text-align:center"></p>Our group conducted a survey on random individuals within the campus community, aiming to gain insights and delve further into people's understanding and awareness of human trafficking. The primary objective was to gather information that would help identify the necessary measures society often requires to safeguard themselves and their loved ones from this issue.</h4>
+                    Link To Sourvey Statistics: </p>
+              <a target="_blank" class="fcc-btn" href="file:///Users/marianagonzalez/Downloads/USC%20SURVEY%20-%20CS%20(1).pdf">Visit: USC Survey CS!</a>
+        <p></p>
+        </div>
+      </div>
+      <hr>
+        </div>
+      </div>
+      <hr>
+      
+
+    <!-- END About/Intro Menu -->
+    </div>
+
+  <!-- END GRID -->
+  </div>
+
+<!-- END w3-content -->
+</div>
+
+
+<!-- Footer -->
+<footer class="w3-container w3-dark-grey" style="padding:32px">
+  <a href="#" class="w3-button w3-black w3-padding-large w3-margin-bottom"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+</footer>
+
+<script>
+// Toggle between hiding and showing blog replies/comments 
+document.getElementById("myBtn").click();
+function myFunction(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+
+function likeFunction(x) {
+  x.style.fontWeight = "bold";
+  x.innerHTML = "✓ Liked";
+}
+</script>
+
+</body>
+</html>
